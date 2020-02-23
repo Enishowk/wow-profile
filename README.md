@@ -5,7 +5,7 @@
 
 # Other
 ### wa-resto-bonus
-![](./assets/3.png)
+![](./assets/3.PNG)
 
 # Fonts
 
