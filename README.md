@@ -10,7 +10,7 @@
 # Fonts
 
 * Add [ShareMedia](https://www.curseforge.com/wow/addons/sharedmedia)
-* Copy fonts in `\_retail_\Interface\AddOns\SharedMedia\fonts`
+* Copy `assets/fonts/*` in `\_retail_\Interface\AddOns\SharedMedia\fonts`
 * Add font in `\_retail_\Interface\AddOns\SharedMedia\SharedMedia.lua`
 
 # CC
